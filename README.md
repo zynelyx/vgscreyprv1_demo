@@ -9,3 +9,7 @@
 - **Kullanıcının geçmişine göre öneriler**
 - **İçerik kategorileri ve akıllı filtreleme
 ve daha fazlası...**
+
+Fotoğraflar:
+1.png
+2.png
