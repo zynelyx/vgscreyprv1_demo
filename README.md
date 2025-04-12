@@ -11,8 +11,8 @@
 ve daha fazlası...**
 
 Fotoğraflar:
-[1.png](https://github.com/zynelyx/vgscreyprv1_demo/blob/main/1.png)
-[2.png](https://github.com/zynelyx/vgscreyprv1_demo/blob/main/2.png)
-https://github.com/zynelyx/vgscreyprv1_demo/blob/main/3.png
-https://github.com/zynelyx/vgscreyprv1_demo/blob/main/4.png
-https://github.com/zynelyx/vgscreyprv1_demo/blob/main/4.png
+![1](1.png)
+![2](2.png)
+![3](3.png)
+![4](4.png)
+![5](5.png)
