@@ -1,6 +1,4 @@
-**'----ÜCRETLİ VERSİYON İÇİN: TELEGRAM => @uwpear ----'**
-
- 
+**'ÜCRETLİ VERSİYON:'**
 - **Türkçe, İngilizce, Rusça ve daha fazla dil**
 - **Akıllı arama, daha fazla sonuç ve öneriler (AI destekli)**
 - **Akıllı içerik özetleme ve gelişmiş etiket çekme**
@@ -9,6 +7,8 @@
 - **Kullanıcının geçmişine göre öneriler**
 - **İçerik kategorileri ve akıllı filtreleme
 ve daha fazlası...**
+
+**İletişim => Telegram: @uwpear **
 
 Fotoğraflar:
 ![1](1.png)
