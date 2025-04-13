@@ -1,11 +1,11 @@
 =================================================================
 **'DEMO VERSİYON:'**
 =================================================================
-**- Dil desteği olarak Türkçe var.**
-**- Anahtar kelimeler ile ilk 10 sonucu bizlere veriyor.**
-**- 5 farklı HTML etiketi çekme işlemini bizlere sunuyor.**
-**- İçerikleri manuel olarak kaydetme.**
-**- _Basit_ filtreleme işlemleri.**
+- **Dil desteği olarak Türkçe var.**
+- **Anahtar kelimeler ile ilk 10 sonucu bizlere veriyor.**
+- **5 farklı HTML etiketi çekme işlemini bizlere sunuyor.**
+- **İçerikleri manuel olarak kaydetme.**
+- **_Basit_ filtreleme işlemleri.**
 
 =================================================================
 **'ÜCRETLİ VERSİYON:'**
