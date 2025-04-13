@@ -8,7 +8,7 @@
 - **İçerik kategorileri ve akıllı filtreleme
 ve daha fazlası...**
 
-**İletişim => Telegram: @uwpear **
+**İletişim => Telegram: @uwpear**
 
 Fotoğraflar:
 ![1](1.png)
