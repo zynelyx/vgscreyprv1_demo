@@ -10,7 +10,7 @@
 =================================================================
 
 ====================**'ÜCRETLİ VERSİYON:'**====================
-- **Türkçe, İngilizce, Rusça ve daha fazla dil**
+- **Türkçe, İngilizce, Rusça, Fransızca, Almanca ve daha fazla...**
 - **Akıllı arama, daha fazla sonuç ve öneriler (AI destekli)**
 - **Akıllı içerik özetleme ve gelişmiş etiket çekme**
 - **Otomatik kaydetme ve düzenleme**
