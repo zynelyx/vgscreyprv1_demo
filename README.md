@@ -11,11 +11,12 @@
 
 ====================**'ÜCRETLİ VERSİYON:'**====================
 - **Türkçe, İngilizce, Rusça, Fransızca, Almanca ve daha fazla...**
-- **Akıllı arama, daha fazla sonuç ve öneriler (AI destekli)**
-- **Akıllı içerik özetleme ve gelişmiş etiket çekme**
+- **Akıllı arama, daha fazla sonuç ve öneriler (AI destekli)** => geliştiriliyor...
+- **Akıllı içerik özetleme ve gelişmiş etiket çekme** => geliştiriliyor...
 - **Otomatik kaydetme ve düzenleme**
-- **_Yapay zeka destekli_ arama ve içerik önerileri**
-- **Kullanıcının geçmişine göre öneriler**
+- **Veritabanı dosyasını JSON ve CSV formatlarına dönüştürme**
+- **_Yapay zeka destekli_ arama ve içerik önerileri** => geliştiriliyor...
+- **Kullanıcının geçmişine göre öneriler** => geliştiriliyor...
 - **İçerik kategorileri ve akıllı filtreleme
 ve daha fazlası...**
 ==================================================================
